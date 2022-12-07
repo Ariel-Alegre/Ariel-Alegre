@@ -21,5 +21,8 @@
 
 ##
 <div>
-  linkedin:  <a href='https://www.linkedin.com/in/ariel-alegre-84526a186/'> <img src= 'https://cdn-icons-png.flaticon.com/512/174/174857.png' height='50px' widht='50px'/> </a>
+    <h3>
+        linkedin: 
+    </h3>
+   <a href='https://www.linkedin.com/in/ariel-alegre-84526a186/'> <img src= 'https://cdn-icons-png.flaticon.com/512/174/174857.png' height='50px' widht='50px'/> </a>
 </div>
