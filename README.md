@@ -22,5 +22,5 @@
 ##
 <div>
     <a href='https://www.linkedin.com/in/ariel-alegre-84526a186/'> <img src= 'https://cdn-icons-png.flaticon.com/512/174/174857.png' height='50px' widht='50px'/> </a>
-    <a href='arielalegre98@gmail.com'> <img src= 'https://cdn-icons-png.flaticon.com/512/281/281769.png' height='50px' widht='50px'/> </a>
+    <a href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKkkNGNBfknFmSTBfdRLNGbFPhKjkTLBmRlqCZHZnnTNbPglkCbPpnXqNHxlkfvxXbHgXNr'> <img src= 'https://cdn-icons-png.flaticon.com/512/281/281769.png' height='50px' widht='50px'/> </a>
 </div>
