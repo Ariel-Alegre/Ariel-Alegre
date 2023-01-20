@@ -7,15 +7,15 @@
 ## 
 <div>
 <h3 id='header'>Mis Skills: </h3>
-<img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' height='50px' width='50px'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' height='50px' width='50px'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' height='50px' width='50px'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' height='50px' width='50px'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' height='50px' width='50px'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' height='50px' width='50px'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' height='50px' width='50px'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' height='50px' width='50px'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg' height='50px' width='50px'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
 
 </div>
 
@@ -24,5 +24,5 @@
     <h3>
         linkedin: 
     </h3>
-   <a href='https://www.linkedin.com/in/ariel-alegre-84526a186/'> <img src= 'https://cdn-icons-png.flaticon.com/512/174/174857.png' height='50px' widht='50px'/> </a>
+   <a href='https://www.linkedin.com/in/ariel-alegre-84526a186/'> <img src= 'https://cdn-icons-png.flaticon.com/512/174/174857.png' height='50px' widht='50px' target='_blank' rel="noreferrer"/> </a>
 </div>
