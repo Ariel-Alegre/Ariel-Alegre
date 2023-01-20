@@ -9,7 +9,7 @@
 <h3 id='header'>Mis Skills: </h3>
 <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
