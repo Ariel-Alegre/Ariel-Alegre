@@ -1,7 +1,7 @@
 <div id='header' align='center'>
     <img src='https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif' width='380px'/>
     <h1 align='center'> Hola Mundo👋 me llamo Ariel Alegre</h1>
-     <h3 align='center'Software Developer, ya programo hace mas de 1 año, en estos últimos 8 meses he mejorado mucho mis habilidades en la programación. Aprendí a crear paginas y aplicaciones web, cree 3 aplicacion individuales, tanto en el Front-End como en le Back-End, y realice un trabajo grupal que fue la creación de un e-commerce.</h3>
+    <h3 align='center'>Software Developer, ya programo hace mas de 1 año, en estos últimos 8 meses he mejorado mucho mis habilidades en la programación. Aprendí a crear paginas y aplicaciones web, cree 3 aplicacion individuales, tanto en el Front-End como en le Back-End, y realice un trabajo grupal que fue la creación de un e-commerce.</h3>
 </div>
 
 ## 
