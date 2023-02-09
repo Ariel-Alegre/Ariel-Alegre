@@ -4,6 +4,14 @@
     <h3>Soy Full Stack Web Developer y actualmente busco crecer como programador, adquiriendo conocimientos y aprendiendo el uso de nuevas tecnologías. Me motiva la creación de nuevos proyectos y poder aportar mis conocimiento a la realización de los mismos.</h3>
 </div>
 
+<div>
+   <h3>Contactarme por: </h3> 
+
+    E-mail: arielalegre98@gmail.com
+
+    Tel: 541161361408
+    
+</div>
 ## 
 <div>
 <h3 id='header'>Mis Skills: </h3>
