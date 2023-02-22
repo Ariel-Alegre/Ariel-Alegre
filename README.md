@@ -19,6 +19,7 @@
 <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
