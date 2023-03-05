@@ -25,6 +25,7 @@
 <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg' height='50px' width='50px' target='_blank' rel="noreferrer"/>
 
 </div>
