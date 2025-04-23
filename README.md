@@ -1,7 +1,7 @@
 <div id='header' align='center'>
     <img src='https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif' width='380px'/>
     <h1 align='center'> Hola Mundo👋 me llamo Ariel Alegre</h1>
-    <h3>Soy Full Stack Web Developer con más de dos años de experiencia como freelance. Mi objetivo es seguir creciendo profesionalmente, adquiriendo nuevos conocimientos y manteniéndome al día con las últimas tecnologías. Me apasiona crear proyectos innovadores y contribuir con mis habilidades y experiencia al éxito de los mismos. Siempre busco desafíos que me permitan aprender y aportar valor a cada proyecto en el que participo.</h3>
+    <h3>Soy Full Stack Web Developer con más de tres años de experiencia como freelance. Mi objetivo es seguir creciendo profesionalmente, adquiriendo nuevos conocimientos y manteniéndome al día con las últimas tecnologías. Me apasiona crear proyectos innovadores y contribuir con mis habilidades y experiencia al éxito de los mismos. Siempre busco desafíos que me permitan aprender y aportar valor a cada proyecto en el que participo.</h3>
 </div>
 
 <div>
